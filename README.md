@@ -25,25 +25,14 @@ The main objective of this project was to demonstrate how **Excel can be used to
 
 ## 🧮 Excel Functions Used
 
-VLOOKUP
-
-IF
-
-SUMIF
-
-IFERROR
-
-## 🛠️ Tools & Techniques
-
-- Microsoft Excel
-- Excel Formulas & Functions
-- Inventory Management
-- Automated Stock Calculations
-- Data Organization
+- VLOOKUP
+- IF
+- SUMIF
+- IFERROR
 
 ## 💡 Key Learning
 
-Through this project, I gained hands-on experience in:
+Through this project, I gained hands on experience in:
 
 - Building a practical inventory management system in Excel
 - Managing stock records in an organized way
@@ -53,7 +42,7 @@ Through this project, I gained hands-on experience in:
 
 ## ▶️ How to Explore
 
-1. Download the Excel project file from this repository.
+1. Download Stock Management System.xlsx file.
 2. Open it in Microsoft Excel.
 3. Explore the stock management system and its features.
 
