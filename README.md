@@ -42,7 +42,7 @@ Through this project, I gained hands on experience in:
 
 ## ▶️ How to Explore
 
-1. Download Stock Management System.xlsx file.
+1. Download Stock Management System.xlsx
 2. Open it in Microsoft Excel.
 3. Explore the stock management system and its features.
 
