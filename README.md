@@ -1,6 +1,6 @@
-# 📦 Stock Management System | Excel
+# Stock Management System | Excel
 
-An Excel-based **Stock Management System** designed to manage inventory records, track stock movements, and monitor available stock efficiently.
+An Excel based **Stock Management System** designed to manage inventory records, track stock movements, and monitor available stock efficiently.
 
 ## 📌 Project Overview
 
@@ -9,7 +9,6 @@ This project simplifies inventory management by organizing stock information in 
 ## 📌 Project Preview
 
 <img width="1366" height="768" alt="stock_management_system" src="https://github.com/user-attachments/assets/dc7d530a-1f58-412e-ac6b-89e158de4ca1" />
-
 
 ## 🎯 Project Objective
 
@@ -42,7 +41,7 @@ Through this project, I gained hands on experience in:
 
 ## ▶️ How to Explore
 
-1. Download Stock Management System.xlsx
+1. Download [Stock Management System.xlsx](https://github.com/sanaulhabib/stock-management-system-excel/raw/main/02-project-file/Stock%20Management%20System.xlsx)
 2. Open it in Microsoft Excel.
 3. Explore the stock management system and its features.
 
